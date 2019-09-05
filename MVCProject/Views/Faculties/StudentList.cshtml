@@ -1,0 +1,78 @@
+﻿@using PagedList.Mvc
+@using PagedList
+@model IPagedList<MVCProject.Models.Student>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css">
+@{
+    ViewBag.Title = "StudentList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>StudentList</h2>
+
+@using (Html.BeginForm("StudentList", "Faculties"))
+{
+    <div>
+        Search By Name:@Html.TextBox("searchstring")
+        <input id="Submit1" type="submit" value="Filter" />
+    </div>
+}
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.dept.Name)*@
+            DepartmentName
+        </th>
+        <th>
+            @Html.ActionLink("Name", "StudentList", new { sortorder = ViewBag.StudentName })
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Password)*@
+            Password
+        </th>
+        <th>
+         @*   @Html.DisplayNameFor(model => model.Attendance)*@
+            @Html.ActionLink("Attendance", "StudentList", new { sortorder = ViewBag.StudentAttendance })
+        </th>
+        <th>
+            @* @Html.DisplayNameFor(model => model.TotalDays)*@
+            Total Days
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.dept.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Attendance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalDays)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit","Students", new { id=item.Stud_Id }) |
+            @Html.ActionLink("Details", "Details","Students" ,new { id=item.Stud_Id }) |
+            @Html.ActionLink("Delete", "Delete", "Students",new { id=item.Stud_Id })
+        </td>
+    </tr>
+}
+
+</table>
+@*@using (Html.BeginForm("Logout", "Faculties", FormMethod.Get, new { @class = "form-horizontal", role = "form" }))
+    {
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Logout" class="btn btn-info" />
+            </div>
+        </div>
+    }*@
+Page @(Model.PageCount < Model.PageNumber ? 0:Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model,page=>Url.Action("StudentList",new { page }))

@@ -1,0 +1,65 @@
+﻿@model MVCProject.Models.Student
+
+@{
+    ViewBag.Title = "Student_Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Student_Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.dept.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dept.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Attendance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Attendance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TotalDays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TotalDays)
+        </dd>
+
+    </dl>
+</div>
+@using (Html.BeginForm("Logout", "Students", FormMethod.Get, new { @class = "form-horizontal", role = "form" }))
+{
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Logout" class="btn btn-info" />
+        </div>
+    </div>
+}
+
+

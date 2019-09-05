@@ -1,0 +1,467 @@
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init.resources
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init1.resources
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init2.resources
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init3.resources
+C:\Users\dell\Desktop\Project\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init4.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init1.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init2.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init3.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init4.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init5.resources
+C:\Users\dell\Desktop\WDDN\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init6.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init1.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init2.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init3.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init4.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init5.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init6.resources
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\PagedList.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\PagedList.Mvc.dll
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\PagedList.xml
+C:\Users\dell\Desktop\WDDN\latest\MVCProject\MVCProject\bin\PagedList.Mvc.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\PagedList.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\PagedList.Mvc.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\PagedList.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\PagedList.Mvc.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init1.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init2.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init3.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init4.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init5.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init6.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init7.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init8.resources
+C:\Users\dell\Desktop\WDDN\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init9.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\PagedList.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\PagedList.Mvc.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\PagedList.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\PagedList.Mvc.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\final version\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\PagedList.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\PagedList.Mvc.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\PagedList.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\PagedList.Mvc.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\obj\Debug\MVCProject.Migrations.init.resources
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\dell\Desktop\AMS_final\MVCProject\MVCProject\obj\Debug\MVCProject.pdb

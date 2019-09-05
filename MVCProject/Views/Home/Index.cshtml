@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="jumbotron">
+    <h1>Student Portal</h1>
+    <p class="lead">Welcomes you.</p>
+    </div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Are you Student?</h2>
+
+        @using (Html.BeginForm("Login", "Students", FormMethod.Get, new { @class = "form-horizontal", role = "form" }))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="STUDENT" class="btn btn-primary" />
+                </div>
+            </div>
+        }
+    </div>
+    <div class="col-md-4">
+        <h2>For Faculties</h2>
+
+        @using (Html.BeginForm("Login", "Faculties", FormMethod.Get, new { @class = "form-horizontal", role = "form" }))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="FACULTY" class="btn btn-info" />
+                </div>
+            </div>
+        }
+
+    </div>
+    <div class="col-md-4">
+        <h2>For Admin</h2>
+
+        @using (Html.BeginForm("Admin_Login", "Admins", FormMethod.Get, new { @class = "form-horizontal", role = "form" }))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="ADMIN" class="btn btn-danger" />
+                </div>
+            </div>
+        }
+
+        </div>
+</div>

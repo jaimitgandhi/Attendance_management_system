@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Session["myid"]!=null)
+{
+    using (Html.BeginForm("Logout", "Home"))
+    {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("Hello " + Session["username"] + "!", "Index", "Home", routeValues: null, htmlAttributes: new { title = "Manage"})
+            </li>
+            <li>@Html.ActionLink("Logout","Logout","Home")</li>
+        </ul>
+    }
+}

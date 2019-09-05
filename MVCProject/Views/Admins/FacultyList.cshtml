@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MVCProject.Models.Faculty>
+
+@{
+    ViewBag.Title = "FacultyList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>FacultyList</h2>
+@using (Html.BeginForm("FacultyList", "Admins"))
+{
+    <div>
+        Search By Name:@Html.TextBox("searchstring")
+        <input id="Submit1" type="submit" value="Filter" />
+    </div>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.dept.Name)
+        </th>
+        <th>
+           @* @Html.DisplayNameFor(model => model.Name) *@
+            @Html.ActionLink("Name", "FacultyList",new { sortorder=ViewBag.FacultyName})
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.dept.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit","faculties","", new { id=item.Fact_Id }) |
+            @Html.ActionLink("Details", "Details", "Faculties","",new { id=item.Fact_Id }) |
+            @Html.ActionLink("Delete", "Delete", "Faculties","",new { id=item.Fact_Id })
+        </td>
+    </tr>
+}
+
+</table>
+@using (Html.BeginForm("Logout", "Admins", FormMethod.Get, new { @class = "form-horizontal", role = "form" }))
+{
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Logout" class="btn btn-info" />
+        </div>
+    </div>
+}
